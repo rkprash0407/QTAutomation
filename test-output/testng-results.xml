@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-28T01:22:29 GMT-04:00" name="Default suite" finished-at="2022-07-28T01:22:29 GMT-04:00" duration-ms="204">
+    <groups>
+    </groups>
+    <test started-at="2022-07-28T01:22:29 GMT-04:00" name="Default test" finished-at="2022-07-28T01:22:29 GMT-04:00" duration-ms="204">
+      <class name="Prasanth.QTAutomation.TestngImp">
+        <test-method is-config="true" signature="bc()[pri:0, instance:Prasanth.QTAutomation.TestngImp@4b45a2f5]" started-at="2022-07-28T01:22:29 GMT-04:00" name="bc" finished-at="2022-07-28T01:22:29 GMT-04:00" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bc -->
+        <test-method is-config="true" signature="addition()[pri:0, instance:Prasanth.QTAutomation.TestngImp@4b45a2f5]" started-at="2022-07-28T01:22:29 GMT-04:00" name="addition" finished-at="2022-07-28T01:22:29 GMT-04:00" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addition -->
+        <test-method signature="division()[pri:0, instance:Prasanth.QTAutomation.TestngImp@4b45a2f5]" started-at="2022-07-28T01:22:29 GMT-04:00" name="division" finished-at="2022-07-28T01:22:29 GMT-04:00" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- division -->
+        <test-method is-config="true" signature="Subt()[pri:0, instance:Prasanth.QTAutomation.TestngImp@4b45a2f5]" started-at="2022-07-28T01:22:29 GMT-04:00" name="Subt" finished-at="2022-07-28T01:22:29 GMT-04:00" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Subt -->
+        <test-method is-config="true" signature="addition()[pri:0, instance:Prasanth.QTAutomation.TestngImp@4b45a2f5]" started-at="2022-07-28T01:22:29 GMT-04:00" name="addition" finished-at="2022-07-28T01:22:29 GMT-04:00" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addition -->
+        <test-method signature="multiplication()[pri:0, instance:Prasanth.QTAutomation.TestngImp@4b45a2f5]" started-at="2022-07-28T01:22:29 GMT-04:00" name="multiplication" finished-at="2022-07-28T01:22:29 GMT-04:00" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multiplication -->
+        <test-method is-config="true" signature="Subt()[pri:0, instance:Prasanth.QTAutomation.TestngImp@4b45a2f5]" started-at="2022-07-28T01:22:29 GMT-04:00" name="Subt" finished-at="2022-07-28T01:22:29 GMT-04:00" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Subt -->
+        <test-method is-config="true" signature="ac()[pri:0, instance:Prasanth.QTAutomation.TestngImp@4b45a2f5]" started-at="2022-07-28T01:22:29 GMT-04:00" name="ac" finished-at="2022-07-28T01:22:29 GMT-04:00" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ac -->
+      </class> <!-- Prasanth.QTAutomation.TestngImp -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
